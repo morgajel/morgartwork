@@ -1,4 +1,4 @@
-Thank you very much for giving this brush a try.
+Thank you very much for giving this brush and/or pattern a try.
 
 For installation instructions, please check the Gimp installation instructions, 
 which can usually be found here:
@@ -6,7 +6,7 @@ which can usually be found here:
 http://docs.gimp.org/en/gimp-using-brushes.html
 
 
-You can use these brushes as you wish; this is my own original artwork and you 
+You can use these tools as you wish; this is my own original artwork and you 
 can implement it as you see fit. If you do use it in a professional setting, I 
 beg of you to drop me a line at morgajel@gmail.com and let me see.
 
