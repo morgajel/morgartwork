@@ -1,17 +1,17 @@
 Thank you very much for giving this brush and/or pattern a try.
 
-For installation instructions, please check the Gimp installation instructions, 
-which can usually be found here:
+For installation instructions, please check the Gimp installation 
+instructions, which can usually be found here:
 
 http://docs.gimp.org/en/gimp-using-brushes.html
 
 
-You can use these tools as you wish; this is my own original artwork and you 
-can implement it as you see fit. If you do use it in a professional setting, I 
-beg of you to drop me a line at morgajel@gmail.com and let me see.
+Check out LICENSE for details on what you can do with it (hint: a lot). If
+you do use it in a professional setting, I beg of you to drop me a line at 
+morgajel@gmail.com and let me see.
 
-I welcome feedback and appreciate ratings. If this brush is popular, I'll
-create a few more like it.
+I welcome feedback and appreciate ratings. The more popular these become, 
+the more I'll create. 
 
 Have fun!
 -morgajel
