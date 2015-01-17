@@ -1,3 +1,6 @@
 gimp-brushes/*.png
 gimp-brushes/*.zip
 gimp-brushes/examples/*
+gimp-brushes/exports/*.png
+gimp-brushes/packages/*.zip
+
